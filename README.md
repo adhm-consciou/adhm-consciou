@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Umair Ahmed 👋
 
-<!--
-**adhm-consciou/adhm-consciou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer | Machine Learning | Deep Learning | LLM Engineering
 
-Here are some ideas to get you started:
+I'm currently pursuing an MS in Data Science and building projects in Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models (LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+
+### 🛠️ Technologies
+
+- Python
+- TensorFlow
+- PyTorch
+- SQL
+- Git & GitHub
+- Linux (Learning)
+- Docker (Learning)
+- FastAPI (Learning)
+- Azure (Learning)
+- Kubernetes (Learning)
+
+### 📂 Featured Projects
+
+- TensorFlow Softmax Classification
+- Credit Card Fraud Detection
+- Neural Machine Translation
+- Underwater Image Enhancement
+- Live Drone Detection
+- Game Recommendation System
+
+### 🎯 2026 Goals
+
+- Build production-ready AI applications
+- Master LLM Engineering
+- Learn Azure AI & MLOps
+- Build scalable RAG systems
+- Contribute to open-source AI projects
+
+### 📫 Contact
+
+- GitHub: https://github.com/adhm-consciou
+- Email: oumairahmwd@gmail.com
+
+---
+
+⭐ *Always learning, always building.*
