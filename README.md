@@ -20,11 +20,11 @@ I'm currently pursuing an MS in Data Science and building projects in Artificial
 - PyTorch
 - SQL
 - Git & GitHub
-- Linux (Learning)
-- Docker (Learning)
-- FastAPI (Learning)
-- Azure (Learning)
-- Kubernetes (Learning)
+- Linux 
+- Docker 
+- FastAPI
+- Azure
+- Kubernetes 
 
 ### 📂 Featured Projects
 
