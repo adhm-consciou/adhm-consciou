@@ -1,4 +1,4 @@
-# Hi, I'm Umair Ahmed 👋
+# Hi, I'm Ahmed U. 👋
 
 ## AI Engineer | Machine Learning | Deep Learning | LLM Engineering
 
