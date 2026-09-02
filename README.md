@@ -2,7 +2,7 @@
 
 ## AI Engineer | Machine Learning | Deep Learning | LLM Engineering
 
-I'm currently pursuing an MS in Data Science and building projects in Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models (LLMs).
+I hold an MS in Data Science, with a strong academic foundation in Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models (LLMs). I have applied this knowledge through hands-on projects, developing practical AI solutions and working with modern machine learning and deep learning technologies.
 
 ### 🚀 Current Focus
 - Machine Learning
