@@ -28,20 +28,12 @@ I hold an MS in Data Science, with a strong academic foundation in Artificial In
 
 ### 📂 Featured Projects
 
-- TensorFlow Softmax Classification
-- Credit Card Fraud Detection
-- Neural Machine Translation
-- Underwater Image Enhancement
-- Live Drone Detection
-- Game Recommendation System
-
-### 🎯 2026 Goals
-
-- Build production-ready AI applications
-- Master LLM Engineering
-- Learn Azure AI & MLOps
-- Build scalable RAG systems
-- Contribute to open-source AI projects
+* **Live Commerce AI** — AI-powered commerce intelligence pipeline using FastAPI, FFmpeg, faster-whisper, Ollama/Qwen, SQLite, and workflow orchestration.
+* **AI Research Knowledge Agent** — LLM-powered AI agent for research and knowledge workflows.
+* **Transformer-Based Underwater Image Enhancement** — Deep learning system combining Transformers and CNN refinement for underwater image enhancement.
+* **Credit Card Fraud Detection** — Machine learning system for detecting fraudulent financial transactions.
+* **Neural Machine Translation** — Neural machine translation system for Portuguese-to-English language translation.
+* **Customer Review Sentiment Analysis** — NLP-based sentiment analysis system for customer reviews.
 
 ### 📫 Contact
 
