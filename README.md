@@ -1,4 +1,4 @@
-# UMAIR AHMED
+# AHMED U.
 
 ## AI/ML Engineer | Backend AI Engineering | Computer Vision & Robotics
 
