@@ -8,16 +8,25 @@ I build practical AI systems ranging from deep learning models and LLM-powered a
 
 ### 🚀 Areas of Focus
 
+### 🚀 Areas of Focus
+
 * Machine Learning & Deep Learning
 * Computer Vision & Robotics
-* Natural Language Processing
-* Generative AI & LLM Engineering
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Real-Time AI Systems
-* Backend AI Engineering
+* Natural Language Processing & Speech AI
+* Generative & Multimodal AI
+* Agentic AI & Multi-Agent Systems
+* Model Fine-Tuning & PEFT
+* Prompt & Context Engineering
+* Embeddings & Vector Search
+* Retrieval & Knowledge Systems
+* AI Inference & Model Serving
+* Model Deployment & Production AI
+* AI Evaluation & Observability
+* Machine Learning Operations (MLOps)
+* Real-Time AI & Streaming Systems
+* AI Backend Engineering & APIs
+* Distributed AI Systems
 * Data Engineering & Analytics
-* MLOps
 
 ### 🛠️ Technologies
 
